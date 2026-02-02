@@ -1,4 +1,11 @@
+
 # # 💫 About Me | {احمد فتحي ]
+
+
+<p align="center">
+  <img src="my profile" alt="Header" width="800">
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3776AB&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+Path;Python+%26+Flask+Specialist;Future+DevOps+Ph.D+Holder" alt="Typing SVG" />
