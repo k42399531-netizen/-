@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="رابط_صورتك_هنا" width="100%" alt="Professional Header Banner">
+  <img src="" width="100%" alt="Professional Header Banner">
 </p>
 
 <h1 align="center"> 🚀 Full-Stack Developer | DevOps & Infrastructure Aspirant 👨‍🎓 </h1>
@@ -38,14 +38,12 @@
 ---
 
 ### 📊 إحصائيات الأداء التقني (GitHub Ecosystem)
-
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=k42399531-netizen&show_icons=true&theme=vision-glow&include_all_commits=true&count_private=true" />
+  
+  <br><br>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k42399531-netizen&layout=compact&theme=vision-glow" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k42399531-netizen&theme=vision-glow" alt="GitHub Streak" />
 </p>
 
 ---
