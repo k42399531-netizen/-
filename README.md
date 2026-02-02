@@ -56,8 +56,8 @@
 
 ### 🤝 تواصل معي (Connect with Me)
 <p align="left">
-<a href:"www.linkedin.com/in/أحمد-فتحي-عثمان-757b913a6"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="mailto:k42399531@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href:"https://www.linkedin.com/in/%D8%A3%D8%AD%D9%85%D8%AF-%D9%81%D8%AA%D8%AD%D9%8A-%D8%B9%D8%AB%D9%85%D8%A7%D9%86-757b913a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="mailto:https://myaccount.google.com/?hl=ar&utm_source=OGB&utm_medium=act&gar=WzEyMF0"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
