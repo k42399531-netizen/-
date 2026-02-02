@@ -45,6 +45,37 @@
 
 ---
 
+
+
+
+---
+
+### 📂 مشاريعي المختارة (Featured Projects)
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎬 Marvel Universe App</h4>
+      <img src="https://via.placeholder.com/400x200?text=Marvel+Project+Preview" width="100%" />
+      <p>تطبيق لاستعراض شخصيات مارفل باستخدام HTML/CSS.</p>
+      <a href="https://golden-caramel-3e1df5.netlify.app/">🔗 عرض الكود</a> | <a href="رابط_المعاينة_المباشرة">🌐 التجربة الحية</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤖 AI Web Platform</h4>
+      <img src="https://via.placeholder.com/400x200?text=AI+Web+Preview" width="100%" />
+      <p>منصة لاستكشاف أدوات الذكاء الاصطناعي مبرمجة بـ Python.</p>
+      <a href="https://endearing-crostata-069e44.netlify.app/">🔗 عرض الكود</a> | <a href="رابط_المعاينة_المباشرة">🌐 التجربة الحية</a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
 ### 🤝 تواصل معي (Let's Connect)
 
 <p align="left">
