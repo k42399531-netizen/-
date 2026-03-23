@@ -2,7 +2,7 @@
   <img src="my profile.jpeg" width="100%" alt="Professional Header Banner">
 </p>
 
-<h1 align="center"> 🚀 Full-Stack Developer | DevOps & Infrastructure Aspirant 👨‍🎓 </h1>
+<h1 align="center"> 🚀 back-end Developer | DevOps & Infrastructure Aspirant 👨‍🎓 </h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Academic-Student-green?style=for-the-badge&logo=googlescholar" />
@@ -32,9 +32,11 @@ Aspiring to pursue a PhD in DevOps and continuously improve my skills in softwar
 I adhere to specific quality standards across all my projects (such as Marvel and AI Web) to ensure professionalism:
 
 • Code Quality (5/5): Writing clean and DRY code.
-• UI/UX (5/5): Creating modern and visually appealing designs.
+<br>
 • Logical Structure (5/5): Proper data handling and well-structured logic.
+<br>
 • Maintainability (2/2): Organized folder structure and basic documentation.
+<br>
 • Responsiveness (3/3): Compatibility across different screen sizes.
 ---
 
