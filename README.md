@@ -12,8 +12,10 @@
 
 ---
 
-### 👤 نبذة عني (Professional Profile)
-أنا مبرمج طالب، أعمل على بناء مسار أكاديمي وتقني متوازن. أتخصص حالياً في تطوير تطبيقات الويب الكاملة (**Full-Stack**)، مع شغف عميق بالبنية التحتية والـ **Automation**. هدفي النهائي هو الحصول على درجة الدكتوراه في مجال الـ **DevOps** لابتكار حلول برمجية مستدامة وعالية الكفاءة.
+### 👤  (Professional Profile)
+أJunior Backend Developer passionate about building scalable and efficient systems.
+Currently focusing on mastering Node.js and deepening my JavaScript knowledge, while also learning C#.
+Aspiring to pursue a PhD in DevOps and continuously improve my skills in software development..
 
 ---
 
@@ -21,20 +23,19 @@
 
 | **المجال** | **التقنيات الحالية (Proficient)** | **قيد التعلم (Learning)** | **الطموح القادم (Roadmap)** |
 | :--- | :--- | :--- | :--- |
-| **Frontend** | `HTML5`, `CSS3`, `JavaScript` | `React.js` | `Angular` |
-| **Backend** | `Python` | `Flask`, `OOP` | `Django` |
+| **Backend** | `javascript ===> node.js` | `oop`| `C#` |
 | **Database** | `SQL Basics` | `PostgreSQL` | `Database Design` |
 
 ---
 
-### 📏 معايير جودة الكود (My Engineering Standards)
-ألتزم في جميع مشاريعي (مثل Marvel و AI Web) بمعايير قياس محددة لضمان الاحترافية:
-* **كفاءة الكود (5/5):** كتابة Clean & Dry Code.
-* **تجربة المستخدم UI/UX (5/5):** تصميمات عصرية وجذابة.
-* **التسلسل المنطقي (5/5):** معالجة البيانات وبناء الـ Logic بشكل سليم.
-* **سهولة الصيانة (2/5):** تنظيم المجلدات والتوثيق الأولي.
-* **الاستجابة (3/5):** التوافق مع مختلف الشاشات.
+### 📏  (My Engineering Standards)
+I adhere to specific quality standards across all my projects (such as Marvel and AI Web) to ensure professionalism:
 
+• Code Quality (5/5): Writing clean and DRY code.
+• UI/UX (5/5): Creating modern and visually appealing designs.
+• Logical Structure (5/5): Proper data handling and well-structured logic.
+• Maintainability (2/2): Organized folder structure and basic documentation.
+• Responsiveness (3/3): Compatibility across different screen sizes.
 ---
 
 ### 📊 إحصائيات الأداء التقني (GitHub Ecosystem)
@@ -49,32 +50,6 @@
 
 
 ---
-
-### 📂 مشاريعي المختارة (Featured Projects)
-
-<table border="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎬 Marvel Universe App</h4>
-      <img src="https://via.placeholder.com/400x200?text=Marvel+Project+Preview" width="100%" />
-      <p>تطبيق لاستعراض شخصيات مارفل باستخدام HTML/CSS.</p>
-      <a href="https://golden-caramel-3e1df5.netlify.app/">🔗 عرض الكود</a> | <a href="رابط_المعاينة_المباشرة">🌐 التجربة الحية</a>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI Web Platform</h4>
-      <img src="https://via.placeholder.com/400x200?text=AI+Web+Preview" width="100%" />
-      <p>منصة لاستكشاف أدوات الذكاء الاصطناعي مبرمجة بـ Python.</p>
-      <a href="https://endearing-crostata-069e44.netlify.app/">🔗 عرض الكود</a> | <a href="رابط_المعاينة_المباشرة">🌐 التجربة الحية</a>
-    </td>
-  </tr>
-</table>
-
-
-
-
-
-
-
 
 ### 🤝 تواصل معي (Let's Connect)
 
